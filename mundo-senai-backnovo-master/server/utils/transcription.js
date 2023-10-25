@@ -1,1 +1,0 @@
-export const transcriptionExample = `Teste de transcrição`
